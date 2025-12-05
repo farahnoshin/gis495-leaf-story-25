@@ -11,7 +11,7 @@
     <li>Enabling trade and economic activities</li>
   </ul>
 
-  <p>However, these same rivers can also become a source of danger. When they overflow, they can trigger <b>devastating floods</b>, invading people’s homes, land, and resources.</p>
+  <p>However, these same rivers can also become a source of danger. When they overflow, they can trigger <b>devastating floods</b>, invading peopleâ€™s homes, land, and resources.</p>
 </div>",8,Plain,blue,"Dhaka, Bangladesh",23.80483584,90.41661384,,5,geojson/Bangladesh_divisions.geojson,fillColor:green;color:black
 1,<p><b>When Rivers Bring Floods</b></p>,media/Flood_1.jpg,Source: Reuters,https://www.reuters.com/world/asia-pacific/millions-stranded-floods-ravage-bangladesh-more-rain-forecast-2022-06-18/,"<div style=""font-family: Arial, sans-serif; line-height: 1.6;"">
   <p>
@@ -124,7 +124,7 @@
 4,,,,,"<p style=""text-align:right; font-weight:bold;"">Districts with low SVI</p>",7,Plain,blue,,23.80483584,90.41661384,,,geojson/SVI_low.geojson,fillColor:pink;color:black
 6,<p><b>Which Districts are most socially vulnerable?</b></p>,media/Highest_SVI.png,,,"<p><b>The map highlights the top ten most socially vulnerable districts in Bangladesh, showing where vulnerability is highest and where targeted interventions are most needed.</b></p><p style=""text-align:right; font-weight:bold;"">Top ten most vulnerable districts</p>",8,Plain,blue,,23.80483584,90.41661384,,,geojson/DIstricts_highest_SVI.geojson,fillColor:blue;color:black
 7,<p><b>Whish districts were most affected by floods in 2021?</b></p>,media/Flood_exposure.png,,,"<p><b>The map shows that the most flood-affected districts in 2021 were concentrated in the northeastern region of Bangladesh, with several districts experiencing significantly higher flood intensity than the rest of the country.</b></p><p style=""text-align:right; font-weight:bold;"">Top five most vulnerable districts</p>",7,Plain,blue,,23.80483584,90.41661384,,,geojson/2021_flood_districts.geojson,fillColor:red;color:black
-8,<p><b>How many Intersects?</b></p>,media/common.png,,,"<p>
+8,<p><b>How many Intersects?</b></p>,media/Common.png,,,"<p>
   The map highlights the districts where <b>high flood exposure</b> and 
   <b>high social vulnerability</b> intersect. These overlapping areas represent 
   the regions facing the greatest combined risk, where communities are both highly 
@@ -139,3 +139,4 @@
 9,<p><b>Conclusions</b></p>,,,,"<p><b>
 This study shows that some communities in Bangladesh face both the highest flood risks and the greatest social vulnerability. These are real people living with uncertainty and limited resources.
 </b></p>",7,Plain,blue,"Dhaka, Bangladesh",23.80483584,90.41661384,,5,geojson/Bangladesh_divisions.geojson,fillColor:green;color:black
+
