@@ -1,7 +1,12 @@
 Setting,Customize,Hints
 Storymap Info,,"For help, see tutorial in [HandsOnDataViz.org](https://handsondataviz.org/leaflet-storymaps-with-google-sheets.html)"
+<<<<<<< HEAD
 Storymap Title,NR491 Leaflet Storymap Demo,
 Storymap Subtitle,Colleges and Universities in Wake County<br><small>Scroll down<i class='fafa-chevron-down'></i></small>,"Add your subtitle, or delete that portion"
+=======
+Storymap Title,GIS 595 FINAL PROJECT,
+Storymap Subtitle,FLOOD RISK AND SOCIAL VULNERABILITY MAPPING  IN BANGLADESH<br><small>Scroll down<i class='fafa-chevron-down'></i></small>,"Add your subtitle, or delete that portion"
+>>>>>>> 4c8269e (Clean commit without large data files)
 Storymap Logo,media/ncsu_logo.jpg,Path to a logo image
 Google Analytics Tracking ID,,Sample format: UA-5488840-29
 Map Settings,,
