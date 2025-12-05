@@ -1,4 +1,5 @@
 ,Chapter,Media Link,Media Credit,Media Credit Link,Description,Zoom,Marker,Marker Color,Location,Latitude,Longitude,Overlay,Overlay Transparency,GeoJSON Overlay,GeoJSON Feature Properties
+<<<<<<< HEAD
 0,Overview of Raleigh,media/visit_raleigh.jpg,Source: Raleigh Government,https://raleighnc.gov/,"Before European colonization, the Raleigh area was home to indigenous     tribes including the Tuscarora and Occaneechi. Sir Walter Raleigh, among others, funded a group of colonists     to establish the <em>Cittie of Raleigh</em>. These colonists landed on Roanoke Island in <b>1587</b> and     later became known as the ""Lost Colony"" after the settlement was found abandonded in 1590. In <b>1770</b>     the General Assembly created Wake County. In <b>1792</b>, Raleigh was founded as the state capital of North Carolina.",15.75,Hidden,,"Raleigh, NC",35.7796,-78.6382,https://mapwarper.net/maps/tile/51816/{z}/{x}/{y}.png,0.9,,
 1,Peace College,media/Peace.jp   eg,Image Source: Niche,://www.niche.com/colleges/william-pehttpsace-university/,Peace College was founded in 1857 and an interesting fact about it is that its main building was used as a Confederate hospital during the Civil War.,16.0,Plain,blue,15 E PEACE ST,35.7882396,-78.6373757,,,,
 2,Shaw University,,,,,16.0,Plain,blue,118 E SOUTH ST,35.771817,-78.6379858,,,,
@@ -8,3 +9,145 @@
 6,Wake Technical Community College,,,,,16.0,Plain,blue,9101 FAYETTEVILLE ROAD,35.6506362,-78.706852,,,,
 7,University Of Phoenix-Raleigh Campus,,,,,16.0,Plain,blue,5511 CAPITAL CENTER DRIVE STE. 380,35.7672436,-78.7290806,,,,
 8,School Of Communication Arts,,,,,16.0,Plain,blue,3000 WAKEFIELD CROSSING DRIVE,35.9427849,-78.5562419,,,,
+=======
+0,"<b>Bangladesh, the Land of Rivers<b/>",media/Bangladesh_image.jpg,Source: Pininterest,https://in.pinterest.com/pin/425449496029940351/,"<div style=""font-family: Arial, sans-serif; line-height: 1.6;"">
+  <p>Bangladesh is often called <b>the Land of Rivers</b>. With a total of <b>1,415 rivers</b> flowing across the country, these waterways play a crucial role in shaping its economy and daily life.</p>
+
+  <p>Rivers provide numerous benefits to the people of Bangladesh, including:</p>
+
+  <ul>
+    <li>Making the land fertile for agriculture</li>
+    <li>Providing a major source of food and livelihoods</li>
+    <li>Supporting transportation and communication</li>
+    <li>Enabling trade and economic activities</li>
+  </ul>
+
+  <p>However, these same rivers can also become a source of danger. When they overflow, they can trigger <b>devastating floods</b>, invading people’s homes, land, and resources.</p>
+</div>",8,Plain,blue,"Dhaka, Bangladesh",23.80483584,90.41661384,,5,geojson/Bangladesh_divisions.geojson,fillColor:green;color:black
+1,<p><b>When Rivers Bring Floods</b></p>,media/Flood_1.jpg,Source: Reuters,https://www.reuters.com/world/asia-pacific/millions-stranded-floods-ravage-bangladesh-more-rain-forecast-2022-06-18/,"<div style=""font-family: Arial, sans-serif; line-height: 1.6;"">
+  <p>
+    The geographic location and the flat, low-lying topography make Bangladesh 
+    one of the most <b>flood-prone countries in the world</b>.
+  </p>
+
+  <p>Floods have been a recurring threat for decades:</p>
+
+  <ul>
+    <li>
+      Between <b>1971 and 2014</b>, Bangladesh experienced 
+      <b>78 major flood events</b>.
+    </li>
+    <li>
+      These floods caused the deaths of approximately 
+      <b>42,000 people</b>.
+    </li>
+    <li>
+      The estimated economic loss during this period amounts to 
+      <b>USD 12.2 billion</b>.
+    </li>
+  </ul>
+
+  <p>
+    Today, more than <b>70 million people</b> in Bangladesh live in 
+    flood-prone areas, placing their lives, livelihoods, and properties at 
+    constant risk.
+  </p>
+</div>",7,Plain,blue,"Dhaka, Bangladesh",23.80483584,90.41661384,https://mapwarper.net/maps/tile/43833/{z}/{x}/{y}.png,5,geojson/Bangladesh_divisions.geojson,fillColor:green;color:black
+2,<p><b>Who are affected by Floods?</b></p>,media/Flood_2.jpg,Source: UNICEF,https://news.un.org/en/story/2024/09/1154036,"<div style=""font-family: Arial, sans-serif; line-height: 1.6;"">
+
+  <p>
+    Floods disproportionately affect <b>children, older adults, and other socially
+    disadvantaged groups</b>, many of whom require additional support and protection during
+    disaster events.
+  </p>
+
+  <p>Key inequities in flood impacts include:</p>
+
+  <ul>
+    <li>
+      The <b>lowest income households</b> lose nearly all of their income during disaster
+      periods, while the <b>highest income households</b> experience only a small reduction.
+    </li>
+    <li>
+      Infants born to mothers living in <b>flood-prone areas</b> suffer markedly higher
+      mortality rates in their first year compared to those born in safer regions.
+    </li>
+  </ul>
+
+  <p>
+    These patterns reveal that the impacts of flooding in Bangladesh are 
+    <b>highly unequal across social and demographic groups</b>. This underscores the critical 
+    need for <b>targeted, equity-focused disaster risk reduction and climate adaptation 
+    policies</b> to protect the most vulnerable populations.
+  </p>
+
+</div>",8,Plain,blue,"Dhaka, Bangladesh",23.80483584,90.41661384,,,geojson/Bangladesh_divisions.geojson,fillColor:green;color:black
+3,<p><b>Objectives of this Project</b></p>,media/Flood_3.jpg,,,"<div style=""font-family: Arial, sans-serif; line-height: 1.6;"">
+  <h3>Objectives of the Study</h3>
+  <ol style=""padding-left: 20px;"">
+    <li>
+      Visualize the <b>flood-affected areas in Bangladesh in 2021</b> using the existing
+      <b>surface water map</b> and <b>flood risk map</b>.
+    </li>
+    <li>
+      Determine the <b>Social Vulnerability Index (SVI)</b> at the <b>district level</b> using
+      relevant factors from the <b>Census 2022</b>.
+    </li>
+    <li>
+      Merge the <b>SVI</b> with <b>2021 flood exposure</b> and <b>flood risk</b>, and visualize
+      their intersection to identify areas with both <b>high social vulnerability</b> and
+      <b>high flood exposure or risk</b>.
+    </li>
+  </ol>
+</div>",7,Plain,blue,"Dhaka, Bangladesh",23.80483584,90.41661384,,,geojson/Bangladesh_divisions.geojson,fillColor:green;color:black
+4,<p><b>How the Social Vulnerability varies across Districts in Bangladesh?</b></p>,media/SVI_map.jpg,,,"<div style=""font-family: Arial, sans-serif; line-height: 1.6; max-width: 650px;"">
+  <p>
+    The map shows that social vulnerability varies significantly across Bangladesh. 
+    Districts in the <b>northern, central, and southeastern regions</b> display higher 
+    Social Vulnerability Index (SVI) values, represented by <b>darker red areas</b>. These 
+    locations typically have <b>limited socioeconomic resources</b>, <b>higher population 
+    pressures</b>, and <b>reduced access to essential services</b>.
+  </p>
+
+  <p>
+    In contrast, districts shaded in lighter colors indicate <b>lower vulnerability</b>, 
+    reflecting better social and economic conditions. The clear spatial variation shown 
+    in the map underscores the importance of <b>region-specific strategies</b> to reduce 
+    social vulnerability and strengthen resilience.
+  </p>
+</div><p style=""text-align:right; font-weight:bold;"">Districts with high SVI</p>",8,Plain,blue,"Panchagarh, Bangladesh",26.34270839,88.5668087,,,geojson/SVI_high.geojson,fillColor:red;color:black
+4,<p><b>How the Social Vulnerability varies across Districts in Bangladesh?</b></p>,media/SVI_map_2.png,,,"<div style=""font-family: Arial, sans-serif; line-height: 1.6; max-width: 650px;"">
+  <p>
+    The map shows that social vulnerability varies across Bangladesh, with 
+    several <b>eastern and northern districts</b> displaying higher SVI levels 
+    (darker blue). These areas tend to have weaker socioeconomic conditions and 
+    greater exposure to climate risks.
+  </p>
+
+  <p>
+    Districts in <b>lighter shades</b> reflect lower vulnerability, indicating 
+    better access to resources and stronger social resilience. The spatial 
+    differences highlight the need for <b>district-specific strategies</b> to 
+    reduce vulnerability.
+  </p>
+</div><p style=""text-align:right; font-weight:bold;"">Districts with medium-high SVI</p>",7,Plain,blue,,23.80483584,90.41661384,,,geojson/SVI_medium_high.geojson,fillColor:orange;color:black
+4,,,,,"<p style=""text-align:right; font-weight:bold;"">Districts with medium-low SVI</p>",8,Plain,blue,,23.80483584,90.41661384,,,geojson/SVI_medium_low.geojson,fillColor:yellow;color:black
+4,,,,,"<p style=""text-align:right; font-weight:bold;"">Districts with low SVI</p>",7,Plain,blue,,23.80483584,90.41661384,,,geojson/SVI_low.geojson,fillColor:pink;color:black
+6,<p><b>Which Districts are most socially vulnerable?</b></p>,media/Highest_SVI.png,,,"<p><b>The map highlights the top ten most socially vulnerable districts in Bangladesh, showing where vulnerability is highest and where targeted interventions are most needed.</b></p><p style=""text-align:right; font-weight:bold;"">Top ten most vulnerable districts</p>",8,Plain,blue,,23.80483584,90.41661384,,,geojson/DIstricts_highest_SVI.geojson,fillColor:blue;color:black
+7,<p><b>Whish districts were most affected by floods in 2021?</b></p>,media/Flood_exposure.png,,,"<p><b>The map shows that the most flood-affected districts in 2021 were concentrated in the northeastern region of Bangladesh, with several districts experiencing significantly higher flood intensity than the rest of the country.</b></p><p style=""text-align:right; font-weight:bold;"">Top five most vulnerable districts</p>",7,Plain,blue,,23.80483584,90.41661384,,,geojson/2021_flood_districts.geojson,fillColor:red;color:black
+8,<p><b>How many Intersects?</b></p>,media/common.png,,,"<p>
+  The map highlights the districts where <b>high flood exposure</b> and 
+  <b>high social vulnerability</b> intersect. These overlapping areas represent 
+  the regions facing the greatest combined risk, where communities are both highly 
+  exposed to flooding and have limited capacity to cope or recover. 
+</p>
+
+<p>
+  Only a small number of districts fall into this high-risk intersection, making 
+  them critical priorities for <b>targeted disaster preparedness, support programs, 
+  and resilience planning</b>.
+</p><p style=""text-align:right; font-weight:bold;"">Three districts intersect</p>",8,Plain,blue,,24.99563487,91.39913941,,,geojson/common.geojson,fillColor:red;color:black
+9,<p><b>Conclusions</b></p>,,,,"<p><b>
+This study shows that some communities in Bangladesh face both the highest flood risks and the greatest social vulnerability. These are real people living with uncertainty and limited resources.
+</b></p>",7,Plain,blue,"Dhaka, Bangladesh",23.80483584,90.41661384,,5,geojson/Bangladesh_divisions.geojson,fillColor:green;color:black
+>>>>>>> 4c8269e (Clean commit without large data files)
